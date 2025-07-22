@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Udawant</h1>
 
 <p align="center">
-  🚀 AI & ML Enthusiast | 🎓 M.Tech CSE (NIT Goa) | 💡 Content Creator @ <a href="https://www.instagram.com/theidealcoder" target="_blank">@theidealcoder</a>
+  🚀 AI & ML Enthusiast | 🎓 M.Tech CSE (NIT Goa) | 💡 Content Creator <a href="https://www.instagram.com/theidealcoder" target="_blank">@theidealcoder</a>
 </p>
 
 ---

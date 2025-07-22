@@ -28,12 +28,3 @@
 - 📧 Email: udawantparthpu01@gmail.com  
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthudawant&show_icons=true&theme=radical" alt="Parth's GitHub stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthudawant&theme=radical" width="45%"/>
-</p>
-
----
